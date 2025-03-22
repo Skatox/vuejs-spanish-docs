@@ -195,7 +195,7 @@ El enlace anterior carga la _compilación global_ de Vue, donde todas las APIs d
 </script>
 ```
 
-[Demo en Codepen](https://codepen.io/vuejs-examples/pen/QWJwJLp)
+[Demo en Codepen >](https://codepen.io/vuejs-examples/pen/QWJwJLp)
 
 </div>
 
@@ -220,7 +220,7 @@ El enlace anterior carga la _compilación global_ de Vue, donde todas las APIs d
 </script>
 ```
 
-[Demo en Codepen](https://codepen.io/vuejs-examples/pen/eYQpQEG)
+[Demo en Codepen >](https://codepen.io/vuejs-examples/pen/eYQpQEG)
 
 :::tip
 Muchos de los ejemplos de la Composition API a lo largo de la guía utilizarán la sintaxis `<script setup>`, que requiere herramientas de compilación. Si deseas utilizar Composition API sin un paso de compilación, consulta el uso de la opción [`setup()`](/api/composition-api-setup).
@@ -277,12 +277,12 @@ Observa que estamos usando `<script type="module">`, y que la URL importada del 
 
 <div class="options-api">
 
-[Demo en Codepen](https://codepen.io/vuejs-examples/pen/VwVYVZO)
+[Demo en Codepen >](https://codepen.io/vuejs-examples/pen/VwVYVZO)
 
 </div>
 <div class="composition-api">
 
-[Demo en Codepen](https://codepen.io/vuejs-examples/pen/MWzazEv)
+[Demo en Codepen >](https://codepen.io/vuejs-examples/pen/MWzazEv)
 
 </div>
 
@@ -322,7 +322,7 @@ Podemos enseñarle al navegador dónde localizar la importación de `vue` usando
 </script>
 ```
 
-[Demo en Codepen](https://codepen.io/vuejs-examples/pen/wvQKQyM)
+[Demo en Codepen >](https://codepen.io/vuejs-examples/pen/wvQKQyM)
 
 </div>
 
@@ -353,7 +353,7 @@ Podemos enseñarle al navegador dónde localizar la importación de `vue` usando
 </script>
 ```
 
-[Demo en Codepen](https://codepen.io/vuejs-examples/pen/YzRyRYM)
+[Demo en Codepen >](https://codepen.io/vuejs-examples/pen/YzRyRYM)
 
 </div>
 
